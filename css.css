@@ -1,176 +1,11 @@
 
-Rob Schwandt
-Due Friday
-HTML:CSS and Tables
-VIEW ALL
-TOPICS
-1.1 Activities
-Activities
-AP Test
-HTML
-Journals
-Projects
-Random Stuff
-Tutorials
-
-Assignment: "HTML:CSS and Tables"
-Rob Schwandt
-Created 10:06 AM10:06 AM (Edited 10:09 AM)
-NOT DONE
-HTML
-Due Sep 29
-HTML:CSS and Tables
-OPEN
-
-ice.txt
-Text
-
-css.txt
-Text
-
-Add class comment…
-
-Assignment: "HTML Webpage Creation"
-Rob Schwandt
-Created Sep 21Sep 21 (Edited Sep 26)
-DONE
-HTML
-Due Sep 26, 11:45 AM
-HTML Webpage Creation
-OPEN
-
-index.txt
-Text
-
-portfolio.txt
-Text
-
-images - Google Drive
-https://drive.google.com/open?id=0B5m4e6ZkvPXlXzJaaUlHcm9KM2s
-
-Steps to Push Changes to Your Website (from Cloud9 to Github).png
-Image
-
-Add class comment…
-
-Assignment: "Project 1 V2"
-Rob Schwandt
-Created Sep 18Sep 18
-DONE LATE
-Projects
-Due Sep 19, 9:40 AM
-Project 1 V2
-OPEN
-
-Add class comment…
-
-Assignment: "Project 1 Write-Up"
-Rob Schwandt
-Created Sep 8Sep 8 (Edited Sep 15)
-DONE
-Projects
-Due Sep 15, 10:45 AM
-Project 1 Write-Up
-OPEN
-
-Brandon JandtSep 15
-I can't turn in more than one file.
-
-Add class comment…
-
-Assignment: "Section 1 Project"
-Rob Schwandt
-Created Sep 1Sep 1 (Edited Sep 11)
-DONE LATE
-Projects
-Due Sep 11, 10:45 AM
-Section 1 Project
-Skip Procedure Steps 1 and 3-7
-OPEN
-
-Sign In to myPLTW
-https://pltw.read.inkling.com/a/b/6a898c91765d4fad9eec30d5c213823e/p/b8237bf41cb64a6fb2c5c4a405f2c0a0
-
-Project 1 Initial Submit Rubric
-Google Docs
-
-Google Forms - create and analyze surveys, for free.
-https://goo.gl/forms/yJygXlloFsfAHpGy2
-
-Add class comment…
-
-Announcement: "Senior Ladies! Possible Scholarship…"
-Rob Schwandt
-Created Sep 11Sep 11
-Random Stuff
-Senior Ladies! Possible Scholarship Opportunity! Take a look at the details!
-
-2017 Susan Van Note WTS Scholarship Application.doc
-Word
-
-Add class comment…
-
-Announcement: "Inspiration for your Scratch Projects"
-Rob Schwandt
-Created Sep 1Sep 1
-Projects
-Inspiration for your Scratch Projects
-
-Scratch - Starter Projects
-https://scratch.mit.edu/starter_projects/
-
-Add class comment…
-
-Assignment: "U1S1 Project Brainstorm"
-Rob Schwandt
-Created Aug 31Aug 31
-MISSING
-1.1 Activities
-Due Sep 1
-U1S1 Project Brainstorm
-OPEN
-
-Add class comment…
-
-Assignment: "Unit 1, Section 1 - Journal"
-Rob Schwandt
-Created Aug 17Aug 17 (Edited Sep 11)
-RESUBMITTED
-Journals
-Unit 1, Section 1 - Journal
-OPEN
-
-Add class comment…
-
-Assignment: "1.1.6 - Variable Roles Part 2"
-Rob Schwandt
-Created Aug 28Aug 28 (Edited Aug 30)
-DONE LATE
-1.1 Activities
-Due Aug 30
-1.1.6 - Variable Roles Part 2
-OPEN
-
-1.1.6.a StepperWalker.sb2
-Compressed Archive
-
-1.1.6.b BestSoFar.sb2
-Compressed Archive
-
-1.1.6.c OneWayFlagEvent.sb2
-Compressed Archive
-
-1.1.6.d OneWayFlagProcedural.sb2
-Compressed Archive
-
-Add class comment…
 
 body{
 	
 font-family: "Helvetica", "Arial", fantasy;
 	
 color: #AAFF00;
-	background-color: #ADD3F9;
+	background-color: #61175E;
 	
 text-shadow: 1px 1px #ff0000;
 	text-align: center;
@@ -204,6 +39,6 @@ padding: 8px;
 
 tr:nth-child(even) {
     
-background-color: #dddddd;
+background-color: #61175E;
 
 }
